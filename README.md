@@ -11,6 +11,7 @@ app_build_command: npm run build
 app_file: dist/index.html
 models:
 - onnx-community/Supertonic-TTS-ONNX
+header: mini
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
