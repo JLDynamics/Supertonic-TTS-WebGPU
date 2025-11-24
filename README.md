@@ -11,6 +11,7 @@ app_build_command: npm run build
 app_file: dist/index.html
 models:
 - onnx-community/Supertonic-TTS-ONNX
+- Supertone/supertonic
 header: mini
 thumbnail: https://cdn-uploads.huggingface.co/production/uploads/61b253b7ac5ecaae3d1efe0c/xGPlQigrEccAv4f7c86Sq.png
 ---
